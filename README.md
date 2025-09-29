@@ -19,9 +19,9 @@ cd scripts
 ./push-file.sh <phone-mac> [count] [delay_seconds]
 ```
 
-```text <phone-mac>``` → Bluetooth MAC of your Android device
-```text [count]``` → Number of files to send (default: 1)
-```text [delay_seconds]``` → Delay between pushes (default: 3)
+```<phone-mac>``` → Bluetooth MAC of your Android device
+```[count]``` → Number of files to send (default: 1)
+```[delay_seconds]``` → Delay between pushes (default: 3)
 
 Check your phone’s Downloads/Bluetooth folder for received files. ✅
 
