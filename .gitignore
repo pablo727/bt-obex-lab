@@ -1,0 +1,4 @@
+push-file.sh
+*.swp
+*.tmp
+
